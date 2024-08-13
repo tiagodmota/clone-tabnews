@@ -12,6 +12,6 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
+  "author": "Tiago Dantas Mota",
   "license": "MIT"
 }
