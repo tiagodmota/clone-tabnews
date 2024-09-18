@@ -8,7 +8,7 @@
 
 - Grosso modo, repositório Git é uma pasta com seu projeto e os arquivos de rastreio/salvamento de modificações do mesmo;
 
-- Por outro lado, o GitHub é um "YouTube" de repositórios Git. Assim como uma plataforma de vídeos: **hospeda**, **distribui **e **agrega um ecossistema ao redor do vídeo** (editor de vídeo simplificado e embutido, geração de legendas automáticas, comentários, curtidas, doações, etc., etc., etc.); o GitHub também disponibiliza recursos úteis e adicionais a repositórios Git.
+- Por outro lado, o GitHub é um "YouTube" de repositórios Git. Assim como uma plataforma de vídeos: **hospeda**, **distribui **e **agrega um ecossistema ao vídeo** (editor de vídeo simplificado e embutido, geração de legendas automáticas, comentários, curtidas, doações, etc., etc., etc.); o GitHub também disponibiliza recursos úteis e adicionais em volta de repositórios Git.
 
 ## Codespaces
 
